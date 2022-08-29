@@ -1,6 +1,6 @@
 # API - Repositório de contos de fantasia
 
-Esta API foi criada com a linguagem Java, utilizando o framework Springboot e o banco de dados relacional MySQL. A ideia do projeto é a armazenagem de textos, contos e histórias no geral do meu subgênero literário favorito. O front-end da aplicação será criado em React.js e integrado posteriormente ao projeto.
+Esta API foi criada com a linguagem Java, utilizando o framework Springboot e o banco de dados relacional MySQL. A ideia do projeto é a armazenagem de textos, contos e histórias no geral do meu subgênero literário favorito. O front-end da aplicação será criado em React.js e integrado posteriormente ao projeto. 
 
 ## Modelo Conceitual: Modelo Entidade-Relacionamento
 
